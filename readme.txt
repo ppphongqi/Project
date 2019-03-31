@@ -1,8 +1,8 @@
 
-Git is a distributed version control system.
+I am temporarily in study Web!
 
-Git is free software distributed under the GPL.
+From today , I will upload my project in my free time.
 
-Git has a mutable index called stage.
+Thank you for your support!
 
-Git track changes.
+QQ:2671590605 to contact me.
